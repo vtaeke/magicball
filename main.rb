@@ -1,7 +1,7 @@
 #coding: UTF-8
 require 'telegram/bot'
 
-TOKEN ='652258316:AAHLEGvJTLPTLOBOl54L3LJ46a7fHezs0m8'
+TOKEN ='#####'
 
 ANSWERS = [
  #Положительные
